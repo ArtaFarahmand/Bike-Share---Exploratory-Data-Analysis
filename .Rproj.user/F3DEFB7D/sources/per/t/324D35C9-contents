@@ -1,0 +1,20 @@
+# Improt Required R packages to Explore the data
+
+install.packages('ggplot2')
+library('ggplot2')
+
+install.packages('ggthemes', dependencies = TRUE)
+library(ggthemes)
+
+# Importing New York, Chicago and washington Dataset
+
+ny = read.csv('Dataset/new-york-city.csv')
+wash = read.csv('Dataset/washington.csv')
+chi = read.csv('Dataset/chicago.csv')
+
+# Preview Data
+
+head(ny)
+head(wash)
+head(chi)
+

@@ -1,0 +1,32 @@
+{
+    "id": "DAF2CB47",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1611967532198.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "ny",
+        "caption": "ny",
+        "totalObservations": 300000,
+        "displayedObservations": 300000,
+        "variables": 9,
+        "cacheKey": "A733BCC8",
+        "object": "ny",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=ny&cache_key=A733BCC8&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": -8669031914175742900,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611967532198,
+    "read_only": false,
+    "read_only_alternatives": []
+}
